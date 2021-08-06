@@ -9,7 +9,7 @@
     },
     "servers": [
         {
-            "url": "https://petstore.teste.io/v1"
+            "url": "https://teste.teste.io/v1"
         }
     ],
     "paths": {
